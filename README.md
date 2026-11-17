@@ -16,7 +16,7 @@ Another feature of this is that it can also do the MIDI protocol, either through
 Total: about AU$15, although i have most of these parts already.
 
 ## Software Stack
-Tiny
+Arduino, with Adafruit libraries. Find it in ```/firmware/```
 
 ## Licence
 MIT. If you want to use it, that's awesome! If you have any questions, email me or DM [@louis](https://hackclub.enterprise.slack.com/team/U09DCJM36E8) on Hack Club slack
