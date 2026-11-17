@@ -1,0 +1,45 @@
+# Arduino IDE & CLI build outputs
+build/
+*.hex
+*.bin
+*.elf
+*.eep
+*.lss
+*.sym
+*.map
+*.lst
+*.o
+*.d
+*.a
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# Visual Studio Code & Arduino Extension
+.vscode/
+*.code-workspace
+
+# Visual Micro (Visual Studio)
+_vm/
+__vm/
+*.vsarduino.h
+
+# Secrets & Credentials (Wi-Fi, API keys)
+secrets.h
+arduino_secrets.h
+passwords.h
+config.h
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
